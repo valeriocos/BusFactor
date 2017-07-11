@@ -11,7 +11,6 @@ from bus_factor_gui import BusFactor
 
 WEB_BROWSER_PATH = 'C:\chromedriver_win32\chromedriver.exe'
 
-
 pro = None
 gui = None
 #if this value is false, the script will prompt the content of the data folder in a HTML page
